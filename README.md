@@ -1,6 +1,6 @@
 # KBLI 2020 Interactive Mind Map
 
-Repositori ini berisi visualisasi interaktif berbasis HTML untuk menelusuri struktur **KBLI 2020** dalam bentuk mind map. Tampilan ini dibuat untuk membantu pembacaan kode dan hierarki KBLI secara lebih cepat, terutama ketika digunakan untuk keperluan pemetaan kegiatan usaha, analisis perizinan, atau pendampingan penyusunan matriks pemanfaatan ruang.
+Repositori ini berisi visualisasi interaktif berbasis HTML untuk menelusuri struktur **KBLI 2020** dalam bentuk mind map untuk membantu pembacaan kode dan hierarki KBLI secara lebih cepat, terutama ketika digunakan untuk keperluan pemetaan kegiatan usaha, analisis perizinan, atau pendampingan penyusunan matriks pemanfaatan ruang.
 
 ## Fitur
 
